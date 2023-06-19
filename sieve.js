@@ -11,7 +11,7 @@ window.onload = function() {
         hexValues = {A: "0000CC", B: "550000", C: "550055", D: "555500", E: "555555"}, 
         resultTextArea = document.getElementById("result");
         c.width = window.innerWidth;
-        c.height = window.innerHeight;	  
+        c.height = 300px;	  
 	  const seed = $fx.rand();
 
 
