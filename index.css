@@ -2,17 +2,10 @@ body {
     font-family:"Lucida Console", Monaco, monospace;
     color: #F81894;
     background: #000;
-    max-width:100%;
+    max-width:98%;
     line-height:0.69;
     font-size:5px;
     padding:0 0px;
-}
-
-#datamoth {
-    color: #32CD32 !important;
-    line-height:0.37 !important;
-    font-size:13px !important;
-    padding:0 2px;
 }
 
 a {
